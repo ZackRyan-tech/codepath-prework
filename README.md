@@ -6,7 +6,7 @@ Prework Project for Code Path. Create an app that contains custom background col
 
 ### App Walk-though
 
-<img src=https://recordit.co/07y1ELUQmU width=200><br>
+<img src= "http://g.recordit.co/07y1ELUQmU.gif" width=200><br>
 
 
 ### Required User Stories
